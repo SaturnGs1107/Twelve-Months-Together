@@ -58,3 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
+
+document.getElementById('Funct').addEventListener('click', function () {
+  window.location.href = 'https://saturngs1107.github.io/index.html';
+});
